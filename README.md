@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduando em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://www.ifgoiano.edu.br">Instituto Federal Goiano</a>.
 - 🎓 &nbsp; Graduando em **Engenharia de Controle e Automação** pelo <a href="https://www.ifg.edu.br">Instituto Federal de Goiás</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Flutter/Java** na <a href="https://www.linkedin.com/company/agricolaalvorada/mycompany/">Agrícola Alvorada</a>
+- 💼 &nbsp; Trabalhando como **Analista de Sistemas FullStack** na <a href="https://www.linkedin.com/company/etus/mycompany/">Etus</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Machine Learning**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
