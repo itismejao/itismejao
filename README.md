@@ -3,7 +3,7 @@
 <h3> &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Graduando em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://www.ifgoiano.edu.br">Instituto Federal Goiano</a>.
+- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://www.ifgoiano.edu.br">Instituto Federal Goiano</a>.
 - 🎓 &nbsp; Graduando em **Engenharia de Controle e Automação** pelo <a href="https://www.ifg.edu.br">Instituto Federal de Goiás</a>.
 - 💼 &nbsp; Trabalhando como **BackEnd Developer / DevOps**
 - 🌱 &nbsp; Aprendendo mais sobre **Machine Learning**.
