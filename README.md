@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://www.ifgoiano.edu.br">Instituto Federal Goiano</a>.
 - 🎓 &nbsp; Graduando em **Engenharia de Controle e Automação** pelo <a href="https://www.ifg.edu.br">Instituto Federal de Goiás</a>.
 - 💼 &nbsp; Trabalhando como **Techlead BackEnd Developer / DevOps**
-- 🌱 &nbsp; Aprendendo mais sobre **Machine Learning**.
+- 🌱 &nbsp; Aprendendo mais sobre **Machine Learning** e **Golang**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
