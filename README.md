@@ -4,9 +4,12 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://www.ifgoiano.edu.br">Instituto Federal Goiano</a>.
-- 🎓 &nbsp; Graduando em **Engenharia de Controle e Automação** pelo <a href="https://www.ifg.edu.br">Instituto Federal de Goiás</a>.
 - 💼 &nbsp; Trabalhando como **Techlead BackEnd Developer / DevOps**
 - 🌱 &nbsp; Aprendendo mais sobre **Machine Learning** e **Golang**.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itismejao/galaxy-profile/8430d473db85d7808087f601dbfbecfba2db87ec/assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -77,9 +80,6 @@
 [![Instagram](https://img.shields.io/badge/ITSMEJAO-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/itismejao/)](https://www.instagram.com/itismejao/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991751394)](https://api.whatsapp.com/send?phone=5562991751394)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itismejao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
 
 
 
