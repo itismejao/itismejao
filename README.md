@@ -1,16 +1,15 @@
 <!-- ![](https://komarev.com/ghpvc/?username=itismejao&color=006bed) -->
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itismejao/galaxy-profile/8430d473db85d7808087f601dbfbecfba2db87ec/assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
+
 <h3> &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://www.ifgoiano.edu.br">Instituto Federal Goiano</a>.
 - 💼 &nbsp; Trabalhando como **Techlead BackEnd Developer / DevOps**
 - 🌱 &nbsp; Aprendendo mais sobre **Machine Learning** e **Golang**.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itismejao/galaxy-profile/8430d473db85d7808087f601dbfbecfba2db87ec/assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações, Dados e Frameworks**
