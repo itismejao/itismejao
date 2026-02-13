@@ -6,7 +6,8 @@
 
 <h3> &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp;  Building tools that make developers' lives easier.
+    Passionate about distributed systems, developer experience, and the open-source ecosystem.
 - 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** pelo <a href="https://www.ifgoiano.edu.br">Instituto Federal Goiano</a>.
 - 💼 &nbsp; Trabalhando como **Techlead BackEnd Developer / DevOps**
 - 🌱 &nbsp; Aprendendo mais sobre **Machine Learning** e **Golang**.
